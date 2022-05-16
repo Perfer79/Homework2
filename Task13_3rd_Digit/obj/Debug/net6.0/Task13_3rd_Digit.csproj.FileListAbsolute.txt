@@ -1,0 +1,15 @@
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\Task13_3rd_Digit\obj\Debug\net6.0\Task13_3rd_Digit.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\Task13_3rd_Digit\obj\Debug\net6.0\Task13_3rd_Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\Task13_3rd_Digit\obj\Debug\net6.0\Task13_3rd_Digit.AssemblyInfoInputs.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\Task13_3rd_Digit\obj\Debug\net6.0\Task13_3rd_Digit.AssemblyInfo.cs
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\Task13_3rd_Digit\obj\Debug\net6.0\Task13_3rd_Digit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\Task13_3rd_Digit\bin\Debug\net6.0\Task13_3rd_Digit.exe
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\Task13_3rd_Digit\bin\Debug\net6.0\Task13_3rd_Digit.deps.json
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\Task13_3rd_Digit\bin\Debug\net6.0\Task13_3rd_Digit.runtimeconfig.json
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\Task13_3rd_Digit\bin\Debug\net6.0\Task13_3rd_Digit.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\Task13_3rd_Digit\bin\Debug\net6.0\Task13_3rd_Digit.pdb
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\Task13_3rd_Digit\obj\Debug\net6.0\Task13_3rd_Digit.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\Task13_3rd_Digit\obj\Debug\net6.0\refint\Task13_3rd_Digit.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\Task13_3rd_Digit\obj\Debug\net6.0\Task13_3rd_Digit.pdb
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\Task13_3rd_Digit\obj\Debug\net6.0\Task13_3rd_Digit.genruntimeconfig.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\Task13_3rd_Digit\obj\Debug\net6.0\ref\Task13_3rd_Digit.dll
