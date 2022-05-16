@@ -2,12 +2,15 @@
 456 -> 5
 782 -> 8
 918 -> 1
-*/
+*
 Console.WriteLine("Введите трехзначное число");
-Console.ReadLine();
-
-int rundomNumber = (100,1000);
-Console.WriteLine(rundomNumber);
-int numberOne = (rundomNumber / 100) * 10;
-int numberTwo = rundomNumber % 10;
-Console.WriteLine($"результат{numberOne + numberTwo}");
+int number = Convert.ToInt32(Console.ReadLine());
+int numberOne = (number / 100) * 10;
+int numberTwo = number % 100;
+Console.WriteLine($"результат {numberTwo}");
+*/
+Console.Clear();
+Console.Write("Введи трёхзначное число: ");
+int threeDigitNumber = Convert.ToInt32(Console.ReadLine());
+string stringNumber = Convert.ToString(threeDigitNumber);
+Console.WriteLine("вторая цифра этого числа -> "+stringNumber[1]);
