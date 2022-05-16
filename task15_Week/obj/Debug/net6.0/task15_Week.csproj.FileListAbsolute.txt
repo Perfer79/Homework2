@@ -1,0 +1,15 @@
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\task15_Week\bin\Debug\net6.0\task15_Week.exe
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\task15_Week\bin\Debug\net6.0\task15_Week.deps.json
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\task15_Week\bin\Debug\net6.0\task15_Week.runtimeconfig.json
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\task15_Week\bin\Debug\net6.0\task15_Week.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\task15_Week\bin\Debug\net6.0\task15_Week.pdb
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\task15_Week\obj\Debug\net6.0\task15_Week.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\task15_Week\obj\Debug\net6.0\task15_Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\task15_Week\obj\Debug\net6.0\task15_Week.AssemblyInfoInputs.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\task15_Week\obj\Debug\net6.0\task15_Week.AssemblyInfo.cs
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\task15_Week\obj\Debug\net6.0\task15_Week.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\task15_Week\obj\Debug\net6.0\task15_Week.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\task15_Week\obj\Debug\net6.0\refint\task15_Week.dll
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\task15_Week\obj\Debug\net6.0\task15_Week.pdb
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\task15_Week\obj\Debug\net6.0\task15_Week.genruntimeconfig.cache
+C:\Users\Admin\Dropbox\Документы\разработка\C#\Homework2\task15_Week\obj\Debug\net6.0\ref\task15_Week.dll
