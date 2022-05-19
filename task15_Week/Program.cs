@@ -3,6 +3,7 @@
 7 -> да
 1 -> нет
 */
+Console.Clear();
 Console.Write("Введите цифру, обозначающую день недели: ");
 int dayNumber = Convert.ToInt32(Console.ReadLine());
 
